@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **venkat.chavan.n@gmail.com**
 
-- ⚡ Fun fact **More interested in Motor Sport Analytics**
+- ⚡ Fun fact **More interested in Motor Sport **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
