@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatchavan&label=Profile%20views&color=0e75b6&style=flat" alt="venkatchavan" /> </p>
 
-- 🔭 I’m currently working on **GeethaBot**
+- 🔭 I’m currently working on **Automated Feature Engineering System**
 
-- 🌱 I’m currently learning **Natural Language Processing, Deep Learning**
+- 🌱 I’m currently learning **Natural Language Processing, Deep Learning,,LangChain**
 
 - 👯 I’m looking to collaborate on [E-commerce Data Analysis](https://github.com/Venkatchavan/ecommerce-data-analysis)
 
