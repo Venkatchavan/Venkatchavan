@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatchavan&label=Profile%20views&color=0e75b6&style=flat" alt="venkatchavan" /> </p>
 
-- 🔭 I’m currently working on **AnimeStyler**
+- 🔭 I’m currently working on **Enhanced Data Augmentation**
 
 - 🌱 I’m currently learning **Natural Language Processing, Deep Learning,,LangChain**
 
