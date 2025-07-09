@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatchavan&label=Profile%20views&color=0e75b6&style=flat" alt="venkatchavan" /> </p>
 
-- 🔭 I’m currently working on **Enhanced Data Augmentation**
+- 🔭 I’m currently working on **Coordinated Multi-Agent Reinforcement Learning for
+Autonomous Driving in Mixed-Traffic Environments**
 
-- 🌱 I’m currently learning **Natural Language Processing, Deep Learning,,LangChain**
+- 🌱 I’m currently learning **Natural Language Processing, Deep Learning,,LangChain,Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on [E-commerce Data Analysis](https://github.com/Venkatchavan/ecommerce-data-analysis)
 
@@ -13,7 +14,7 @@
 
 - 📫 How to reach me **venkat.chavan.n@gmail.com**
 
-- ⚡ Fun fact **More interested in Motor Sport **
+- ⚡ Fun fact **More interested in Motor Sport**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
